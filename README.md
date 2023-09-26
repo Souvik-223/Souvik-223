@@ -5,11 +5,11 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-223&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-223" /> </p>
 
-- 🌱 I’m currently learning **Android Development, MERN stack**
+#  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
+- 🌱 I’m currently learning **Mobile Development, MERN stack**
 - 📝 I regularly write articles on [https://devspot-souvik.hashnode.dev/](https://devspot-souvik.hashnode.dev/)
-- 💬 Ask me about **Kotlin,Java,Javascript,Python**
+- 💬 Ask me about **Java,Javascript,NextJS,React**
 - 📫 How to reach me **22souvik22@gmail.com**
-- ⚡ Fun fact **I am intrested in open source.**
 
 ## Conect With Me:
 
@@ -21,9 +21,6 @@
   </a>
   <a href="https://dev.to/@souvik223">
     <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-  <a href="https://www.instagram.com/_souvik_chakraborty/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.instagram.com/_souvik_chakraborty/">
     <img src="https://skillicons.dev/icons?i=instagram" />
