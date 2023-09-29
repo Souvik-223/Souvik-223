@@ -33,6 +33,10 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,express,prisma,py,java,c,git,github,githubactions,html,css,tailwind,figma,firebase,mongodb,postman,kotlin,androidstudio,vscode,idea,netlify,vercel,ai,ps" />
   </a>
 
+## My Badge Board
+
+[![@souvik223's Holopin board](https://holopin.me/souvik223)](https://holopin.io/@souvik223)
+
 ## Contribution Graph:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik-223&show_icons=true&locale=en&layout=compact" alt="souvik-223" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik-223&show_icons=true&locale=en" alt="souvik-223" /></p>
