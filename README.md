@@ -30,7 +30,7 @@
 # Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,express,prisma,py,java,c,git,github,githubactions,html,css,tailwind,figma,firebase,mongodb,postman,kotlin,androidstudio,vscode,idea,netlify,vercel,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,express,prisma,graphql,py,java,c,git,github,githubactions,html,css,tailwind,figma,firebase,mongodb,postman,kotlin,androidstudio,vscode,idea,netlify,vercel,ai,ps" />
   </a>
 
 # My Badge Board
