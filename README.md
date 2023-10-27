@@ -11,7 +11,7 @@
 - 💬 Ask me about **Java,Javascript,NextJS,React**
 - 📫 How to reach me **22souvik22@gmail.com**
 
-## Conect With Me:
+## Connect With Me:
 
   <a href="https://linkedin.com/in/souvikchakraborty-developer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
