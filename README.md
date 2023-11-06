@@ -38,6 +38,7 @@
 [![@souvik223's Holopin board](https://holopin.me/souvik223)](https://holopin.io/@souvik223)
 
 # 📊Contribution Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik-223&show_icons=true&locale=en&layout=compact" alt="souvik-223" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik-223&show_icons=true&locale=en" alt="souvik-223" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-223&" alt="souvik-223" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Souvik-223&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Souvik-223&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
