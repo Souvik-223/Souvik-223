@@ -39,7 +39,7 @@
 
 # 📊Contribution Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Souvik-223&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-223&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Souvik-223&theme=neon&hide_border=false)
 
 
