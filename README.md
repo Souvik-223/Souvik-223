@@ -7,7 +7,7 @@
 
 #  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
 - 🌱 I’m currently learning **Mobile Development, MERN stack**
-- 📝 I regularly write articles on [https://devspot-souvik.hashnode.dev/](https://devspot-souvik.hashnode.dev/)
+- 📝 I regularly write articles on [https://souvik-chakraborty.hashnode.dev/](https://souvik-chakraborty.hashnode.dev/)
 - 💬 Ask me about **Java,Javascript,NextJS,React**
 - 📫 How to reach me **22souvik22@gmail.com**
 
