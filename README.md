@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Chakraborty</h1>
-<h3 align="center">A passionate Android and Fullstack Developer</h3>
+<h3 align="center">A passionate Fullstack Developer and Mobile App Developer </h3>
 <p align="center" >
  Hey there! I'm Souvik Chakraborty, an full stack developer and enthusiast of web development and programming with a solid skill set in React, NextJS, NodeJS, MongoDB. I'm also open to remote work, so feel free to contact me.
 </p>
