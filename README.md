@@ -8,7 +8,7 @@
 #  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
 - 🌱 I’m currently learning **Golang, Devops and Cross platform development**
 - 📝 I regularly write articles on [https://souvik-chakraborty.hashnode.dev/](https://souvik-chakraborty.hashnode.dev/)
-- 💬 Ask me about **Java,Javascript,NextJS,React,NodeJs,NestJs**
+- 💬 Ask me about **Java,Javascript,Golang,Solidity,Blockchain,AI,NextJS,React,NodeJs,**
 - 📫 How to reach me **22souvik22@gmail.com**
 
 ## Connect With Me:
