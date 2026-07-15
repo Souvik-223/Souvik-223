@@ -30,9 +30,9 @@
 # Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,py,java,c,cpp,solidity,nextjs,react,vue,vite,webpack,nodejs,express,nestjs,django,flask,prisma,graphql,git,github,githubactions,docker,html,css,tailwind,threejs,bootstrap,materialui,figma,firebase,supabase,mongodb,mysql,postgres,redis,postman,kotlin,androidstudio,nginx,npm,vscode,idea,netlify,vercel,ai,ps,notion" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,py,java,c,cpp,solidity,nextjs,react,redux,vue,nuxt,svelte,vite,webpack,nodejs,bun,express,nestjs,django,flask,fastapi,prisma,graphql,git,github,bitbucket,githubactions,docker,html,css,tailwind,threejs,bootstrap,materialui,figma,firebase,supabase,mongodb,mysql,postgres,redis,postman,kotlin,androidstudio,nginx,npm,pnpm,yarn,aws,azure,vscode,idea,netlify,vercel,ai,ps,notion" />
   </a>
-
+bit
 # My Badge Board
 
 [![@souvik223's Holopin board](https://holopin.me/souvik223)](https://holopin.io/@souvik223)
